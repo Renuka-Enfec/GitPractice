@@ -8,6 +8,6 @@ public class SwapNumber{
     b=a-b;
     a=a-b;
     System.out.println("Swapped two number is: "+a+" "+b);
-    
+  }
     
 }
